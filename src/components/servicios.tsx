@@ -2,7 +2,6 @@ import { motion } from "framer-motion";
 import {
   Package,
   Truck,
-  Building2,
   Warehouse,
   Users,
   FileCheck,

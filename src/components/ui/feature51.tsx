@@ -1,7 +1,6 @@
 import {
   Package,
   Truck,
-  Building2,
   Warehouse,
   Users,
   FileCheck,
